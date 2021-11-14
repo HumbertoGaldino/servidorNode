@@ -1,0 +1,20 @@
+{
+  "name": "servidornode",
+  "version": "1.0.0",
+  "description": "Exercício de criação de um servidor Node.js aplicado no curso Web Fullstack da Digital House.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumbertoGaldino/servidorNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumbertoGaldino/servidorNode/issues"
+  },
+  "homepage": "https://github.com/HumbertoGaldino/servidorNode#readme"
+}
